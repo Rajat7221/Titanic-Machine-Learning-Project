@@ -16,7 +16,7 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. pip install -r requirements.txt
 
-## Usage
+
 
 ## Usage
 1. Ensure you have installed all the dependencies.
@@ -27,8 +27,8 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
 3. Replace the "TITANIC_PATH" with the data sources in the notebook.
 
 
-## Project Structure
-```markdown
+
+
 ## Project Structure
 - `Data/`: Contains the dataset files.
   - `train.csv`
