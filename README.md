@@ -25,6 +25,8 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
    ```bash
    jupyter notebook notebooks\predicting_passenger_survival_in_titanic_shipwreck_474.ipynb
 3. Replace the "TITANIC_PATH" with the data sources in the notebook.
+
+
 #### Project Structure
 ```markdown
 ## Project Structure
