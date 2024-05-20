@@ -20,23 +20,19 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
 ```markdown
 ## Usage
 1. Ensure you have installed all the dependencies.
+2. Navigate to the project directory on your local machine.
 2. Run the Jupyter notebook to see the analysis and results:
    ```bash
-   jupyter notebook predicting_passenger_survival_in_titanic_shipwreck_474.ipynb
+   jupyter notebook notebooks\predicting_passenger_survival_in_titanic_shipwreck_474.ipynb
 3. Replace the "TITANIC_PATH" with the data sources in the notebook.
 #### Project Structure
 ```markdown
 ## Project Structure
-- Data/
-  - train.csv
-  - test.csv
-- Notebook/
-  - predicting_passenger_survival_in_titanic_shipwreck_474.ipynb
-- README.md
-- requirements.txt
-## Project Structure
 - `Data/`: Contains the dataset files.
-- `Notebook/`: Contains the Jupyter notebook with the analysis and model training..
+  - `train.csv`
+  - `test.csv`
+- `notebooks/`: Contains the Jupyter notebook with the analysis and model training.
+  - `predicting_passenger_survival_in_titanic_shipwreck_474.ipynb`
 - `README.md`: Project overview and instructions.
 - `requirements.txt`: List of dependencies required to run the project.
 
@@ -44,6 +40,8 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
 The project uses two machine learning models: Support Vector Classifier (SVC) and RandomForest Classifier. Below are the accuracy results:
 - SVC Accuracy: 73.29%
 - RandomForest Accuracy: 81.26%
+
+
 
 
    
