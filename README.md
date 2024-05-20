@@ -17,7 +17,7 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
 3. pip install -r requirements.txt
 
 ## Usage
-```markdown
+
 ## Usage
 1. Ensure you have installed all the dependencies.
 2. Navigate to the project directory on your local machine.
@@ -27,7 +27,7 @@ This project uses the Titanic dataset from Kaggle to predict whether or not a pa
 3. Replace the "TITANIC_PATH" with the data sources in the notebook.
 
 
-#### Project Structure
+## Project Structure
 ```markdown
 ## Project Structure
 - `Data/`: Contains the dataset files.
